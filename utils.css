@@ -1,0 +1,35 @@
+.flex{
+    display:flex
+}
+header{
+    position: sticky;
+    top: 0;
+    background: white;
+}
+.items-centre{
+    align-items: center;
+}
+.justify centre{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.bold{
+    font-weight: bold;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.container{
+    padding: 0 10vw;
+    margin: auto;
+}
+.section1{
+    background: rgb(212, 209, 209);
+    height: 122vh;
+}
